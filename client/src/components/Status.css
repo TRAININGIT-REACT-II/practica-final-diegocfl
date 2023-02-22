@@ -1,0 +1,10 @@
+.status {
+  color: red;
+  display: inline-block;
+  font-weight: bold;
+  margin: 0 0.25rem;
+}
+
+.status-ok {
+  color: green;
+}
